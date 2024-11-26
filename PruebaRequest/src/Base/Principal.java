@@ -6,6 +6,5 @@ public class Principal {
 	{
 		//Prueba rama
 		//Rama original
-		
 	}
 }
